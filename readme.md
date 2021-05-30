@@ -8,7 +8,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Web Scrapping
 
-	- [End to End Deployment Flipcart Review Scrapper](paste link here): Building and Deploying Flipcart Review Scrapper Heruku .
+	- [End to End Deployment Flipcart Review Scrapper](https://github.com/Er-rdhtiwari/EndtoEnd_Deployment_of_FlipcartProduct_review_WebScrapper.git): Building and Deploying Flipcart Review Scrapper Heruku .
 
 _Tools: Flask api, HTML, Css, Beautiful soup, Request
 
