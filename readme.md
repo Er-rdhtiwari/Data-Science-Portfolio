@@ -18,7 +18,15 @@ _Tools: Flask api, HTML, Css, Beautiful soup, Request
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
-- ### Natural Language Processing
+- ### Deep learning 
+
+	- [End to End Deployment Maleria cell Paracite on Local Machine](https://github.com/Er-rdhtiwari/Maleria_cell_paracite.git): Building and Deploying Flask.
+
+
+
+	- [GAN_dL_Project](https://github.com/Er-rdhtiwari/GAN_DL_project.git): 
+
+_Tools: Flask api, Pytorch ,Tensorflow 
 
 	
 
